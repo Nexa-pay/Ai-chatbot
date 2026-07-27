@@ -1,0 +1,18 @@
+{
+  "company": {
+    "name": "AAKASH AI",
+    "support": "@YourSupportUsername"
+  },
+  "products": [
+    {
+      "name": "Product 1",
+      "price": "100"
+    }
+  ],
+  "faq": [
+    {
+      "question": "Who are you?",
+      "answer": "I am AAKASH AI."
+    }
+  ]
+}
